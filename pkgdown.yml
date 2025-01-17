@@ -1,0 +1,11 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  how_to_edit_gps_traces: how_to_edit_gps_traces.html
+  how_to_edit_osm: how_to_edit_osm.html
+  osmapiR: osmapiR.html
+last_built: 2025-01-17T06:23Z
+urls:
+  reference: https://docs.ropensci.org/osmapiR/reference
+  article: https://docs.ropensci.org/osmapiR/articles
