@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "44d9e389f78eb3aacb17ed3da6f25d8a9a9e7aa6",
+    "author": "Joan Maspons <joanmaspons@gmail.com>",
+    "time": "2026-09-04T19:47:37Z",
+    "files": 3,
+    "merge": false,
+    "message": "Increment version number to 0.2.6.9000\n"
+  },
+  "repo": "https://github.com/ropensci/osmapiR",
+  "pkg": "osmapiR",
+  "time": "2026-09-04T20:50:22Z"
+}
