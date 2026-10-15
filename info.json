@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4c05c9022a6d3edfbe43f4fe9c5c7a510a3b3332",
+    "author": "Joan Maspons <joanmaspons@gmail.com>",
+    "time": "2026-09-15T15:32:41Z",
+    "files": 1,
+    "merge": false,
+    "message": "Remove not used var\n\nfound by lintr\n"
+  },
+  "repo": "https://github.com/ropensci/osmapiR",
+  "pkg": "osmapiR",
+  "time": "2026-10-15T11:14:57Z"
+}
